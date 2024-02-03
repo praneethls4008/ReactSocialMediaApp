@@ -1,8 +1,6 @@
-import './App.css'
-
 function App() {
   return (
-    <h1 className="text-3xl font-extrabold underline text-fuchsia-700">
+    <h1 className="tiny-medium">
       Simple React Typescript Tailwind Sample
     </h1>
   );
